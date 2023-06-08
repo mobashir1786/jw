@@ -3,7 +3,7 @@ import React from 'react'
 function Signature() {
     return (
         <div className='signature'>
-            <h1>SIGNATURE STROKES</h1>
+            <div className='singHeading'>SIGNATURE STROKES</div>
             <div className="items">
                 <ul>
                     <li>Equity</li>

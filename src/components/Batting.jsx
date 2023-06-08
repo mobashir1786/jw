@@ -3,7 +3,7 @@ import React from 'react'
 function Batting() {
     return (
         <div className='signature'>
-            <h1>BATTING GEAR</h1>
+            <div className='singHeading'>BATTING GEAR</div>
             <div className="items">
                 <ul>
                     <li>BlinkTrade – High Speed Trading Platform</li>
